@@ -1,0 +1,7 @@
+[[https://github.com/ROCKTAKEY/popup-posframe][https://img.shields.io/github/tag/ROCKTAKEY/popup-posframe.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/popup-posframe.svg?style=flat-square]]
+[[https://travis-ci.org/ROCKTAKEY/popup-posframe/][https://img.shields.io/travis/ROCKTAKEY/popup-posframe/master.svg?style=flat-square]]
+* Popup posframe which can be hidden with other command.
+* How to Use?
+* License
+  This package is licensed by GPLv3. See [[file:LICENSE][LICENSE]].
