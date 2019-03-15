@@ -4,7 +4,7 @@
 
 ;; Author: ROCKTAKEY <rocktakey@gmail.com>
 ;; Keywords: tools
-
+;; Package-Requires: ((emacs "26"))
 ;; Version: 0.0.0
 
 ;; This program is free software; you can redistribute it and/or modify
